@@ -43,8 +43,11 @@ To run the `milano.ipynb` notebook, follow these steps to set up the required en
 ### Create a virtual environment
 
 ```bash
+
+Create Virtual Environment
+
 python3 -m venv .env
-```bash
+
 Activate the virtual environment
 
 .env\scripts\activate

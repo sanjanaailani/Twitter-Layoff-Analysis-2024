@@ -37,7 +37,7 @@ This project involves the comprehensive analysis of Twitter data related to layo
 
 To run the `milano.ipynb` notebook, follow these steps to set up the required environment and dependencies.
 
-### Create a virtual environment
+
 
 ```bash
 
